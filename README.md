@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Parth Patil 👋
 
-<!--
-**BADDGER7/BADDGER7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring developer and tech enthusiast passionate about code, cybersecurity, and open-source learning.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Java
+
+-Bash
+
+-Linux
+
+-Learning Data Structures
+
+
+## 🛠️ Projects
+
+- Wraith: A terminal-based cyber-themed turn-based adventure game
+
+## 🎮 Tech Interests
+
+- Game testing in beta versions
+- Always eager to explore emerging tools, tech, and coding challenges
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/parth-patil-722806363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: parthpatil02005@gmail.com
+
+## 😄 Hobbies
+
+- PC games
+- Standup comedy
