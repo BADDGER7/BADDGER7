@@ -4,13 +4,10 @@ Aspiring developer and tech enthusiast passionate about code, cybersecurity, and
 
 ## 🚀 Skills & Tools
 
-![Java]
-
-![Bash]
-
-![Linux]
-
-![Learning Data Structures]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Data Structures](https://img.shields.io/badge/DSA-learning-blue?style=for-the-badge)
 
 
 ## 🛠️ Projects
