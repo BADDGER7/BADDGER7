@@ -4,13 +4,13 @@ Aspiring developer and tech enthusiast passionate about code, cybersecurity, and
 
 ## 🚀 Skills & Tools
 
--Java
+![Java]
 
--Bash
+![Bash]
 
--Linux
+![Linux]
 
--Learning Data Structures
+![Learning Data Structures]
 
 
 ## 🛠️ Projects
